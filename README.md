@@ -1,2 +1,2 @@
 # JavaScript-aprendizado
-🍧JavaScriptEssencial Professor Luiz Otávio
+🍧JavaScriptEssencial Professor <a href="https://github.com/luizomf">Luiz Otávio</a>
